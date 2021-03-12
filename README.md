@@ -16,7 +16,7 @@ on localhost:5000 -> the logger writes to the DB the user : ip, REST - request t
 
 on route /showall A.K.A :  localhost:5000/showall -> the logger return json file with all the data saved in the DB.(every entrie).
 
-on route /cleardb A.K.A : localhost:5000/cleardb -> the logger clears all the log Table.
+on route /cleardb A.K.A : localhost:5000/cleardb -> the logger clears / initiaite all the log Table. **to initialize the db do this first. only at the first time**
 
 
 every interaction with the adress is printed.
