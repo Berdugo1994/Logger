@@ -41,3 +41,12 @@ run the script : docker image ls -> to make sure the repository loaded
 run the script : docker-compose up -d -> to create the compose container 
 
 OPEN POSTMAN AND ENJOY!
+
+
+**In case you had problems , you can:**
+
+1.download this repository
+2.cd to the folder.
+3.docker-compose up
+4.and you are good to go.
+(you should see 2 new images).
