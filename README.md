@@ -45,11 +45,11 @@ OPEN POSTMAN AND ENJOY!
 
 **In case you had problems , you can:**
 
-1.download this repository
+1.clone this repository
 
 2.cd to the folder.
 
-3.docker-compose up
+3.run : docker-compose up
 
 4.and you are good to go.
 
