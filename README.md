@@ -28,7 +28,7 @@ to see the prints run -> docker logs from_git_app_1
 
 To run the dockfile:
 
-download the (.tar) file from the repository: https://drive.google.com/file/d/161_cG5LaPW7gGA_GA4OeMff-7CfkVUY6/view?usp=sharing
+download the (.tar) file from the repository: https://drive.google.com/drive/folders/1__TtAppz1wCAAtfa2bGfBkm7ZnUxsXQ5?usp=sharing
 
 cd to the file location
 
