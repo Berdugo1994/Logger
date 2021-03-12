@@ -46,7 +46,12 @@ OPEN POSTMAN AND ENJOY!
 **In case you had problems , you can:**
 
 1.download this repository
+
 2.cd to the folder.
+
 3.docker-compose up
+
 4.and you are good to go.
+
+
 (you should see 2 new images).
