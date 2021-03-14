@@ -28,23 +28,6 @@ to see the prints run -> docker logs from_git_app_1
 
 To run the dockfile:
 
-download the (.tar) file from the repository: https://drive.google.com/drive/folders/1__TtAppz1wCAAtfa2bGfBkm7ZnUxsXQ5?usp=sharing
-
-cd to the file location
-
-load the image with -> docker load --input , -i full.tar
-
-run the script : docker build from_git_app -> will create also the mysql image.
-
-run the script : docker image ls -> to make sure the repository loaded
-
-run the script : docker-compose up -d -> to create the compose container 
-
-OPEN POSTMAN AND ENJOY!
-
-
-**In case you had problems , you can:**
-
 1.clone this repository
 
 2.cd to the folder.
